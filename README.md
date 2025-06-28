@@ -209,5 +209,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [GitHub Pages Link](https://yourusername.github.io/interactive-pattern-generator)
+- **Live Demo**: [GitHub Pages Link](https://torrija.github.io/interactive-pattern-generator)
 - **Documentation**: [Wiki]
